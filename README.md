@@ -6,4 +6,4 @@ This report analyses sales data from vending machines across diverse locations i
 4.	Earle Asphalt: A construction engineering firm in operation 5 days a week. 
 Vending machine: Earle Asphalt x1371.
 By exploring this data, I aim to uncover insights into purchasing trends, product popularity, and potential opportunities for optimization within each location.
-https://github.com/Dotun777/Vending_Machine_Sales Report.pdf
+This pdf further explores the data analysis approach starting from data cleaning to exploratory data analysis. 👉[https://github.com/Dotun777/Vending_Machine_Sales Report.pdf](https://github.com/Dotun777/Vending-Machine-Sales-Report/blob/main/Vending_Machine_Sales%20Report.pdf)
