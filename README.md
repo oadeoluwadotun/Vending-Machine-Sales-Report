@@ -57,4 +57,5 @@ I give thanks to God for the guidance and inspiration throughout this project.
 I also want to acknowledge [Oluwayetty](https://oluwayetty.com/) for being a great coach.
 
 
-This pdf further explores the data analysis approach starting from data cleaning to exploratory data analysis. 👉[https://github.com/Dotun777/Vending_Machine_Sales Report.pdf](https://github.com/Dotun777/Vending-Machine-Sales-Report/blob/main/Vending_Machine_Sales%20Report.pdf)
+This pdf further explores the data analysis approach starting from data cleaning to exploratory data analysis. 👉
+[https://github.com/oadeoluwadotun/Vending-Machine-Sales-Analysis-Project/blob/e94563ddc2ec0fc894c140f9a4b2cd41400a37e2/Vending_Machine_Sales%20Report.pdf] 
